@@ -5,7 +5,7 @@
       "nombre": "SPIDER MAN",
       "poderes": "Fuerza - Telaraña",
       "estreno": "Agosto de 1962",
-      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña,?? es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko, e introducido en el cómic Amazing Fantasy no 15, publicado por Marvel Comics en agosto de 1962.",
       "editorial": "Marvel Comics",
       "tipo": "heroes-marvel",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=eaf9b889-256d-4ebd-87dd-23d3df6494f6"
@@ -16,7 +16,7 @@
       "nombre": "Los Cuatro Fantásticos",
       "poderes": "Elastico - Invisible - Fuego - Fuerza",
       "estreno": "Noviembre de 1961",
-      "descripcion": "Los Cuatro Fantásticos se forman despuás de que cuatro astronautas civiles están expuestos a los rayos cásmicos durante un vuelo de prueba no autorizado en el espacio exterior en un cohete experimental diseáado por el Dr. Reed Richards.",
+      "descripcion": "Los Cuatro Fantásticos se forman despuás de que cuatro astronautas civiles están expuestos a los rayos cásmicos durante un vuelo de prueba no autorizado en el espacio exterior en un cohete experimental diseñado por el Dr. Reed Richards.",
       "editorial": "Marvel Comics",
       "tipo": "heroes-marvel",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Ffantasticos.webp?alt=media&token=b10ca639-5034-4a6a-956d-39344334b404"
@@ -27,7 +27,7 @@
       "nombre": "Capitán América",
       "poderes": "Fuerza - Velocidad",
       "estreno": "Marzo de 1941",
-      "descripcion": "El Capitán Amárica fue diseáado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el peráodo de guerra.",
+      "descripcion": "El Capitán América fue diséñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el período de guerra.",
       "editorial": "Marvel Comics",
       "tipo": "heroes-marvel",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Famerica.webp?alt=media&token=1624fea8-3b14-4208-b1dc-054fe6fde51f"
@@ -438,6 +438,19 @@
       "editorial": "DC  Comics",
       "tipo": "heroes-dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/dc%2Fmartian-j'oon.jpg?alt=media&token=0c141066-6906-4183-a3a8-ff45ac97fa2c"
+    },
+    {
+      "id": "marvel-backgrnd",
+      "nombre": "Fondo Marvel",
+      "descripcion": "Imagen de fondo marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-fakeapi.appspot.com/o/marvel%2Fmarvelbg.jpg?alt=media&token=a90966cb-0bf8-443b-b7fb-73e9496dabd3"
     }
+    {
+      "id": "dc-backgrnd",
+      "nombre": "Fondo Dc",
+      "descripcion": "Imagen de fondo dc",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-fakeapi.appspot.com/o/dc%2FDcbg.jpg?alt=media&token=2982f4be-6021-43ea-afae-9267bb0161f2"
+    }
+    
   ]
 }
