@@ -444,7 +444,7 @@
       "nombre": "Fondo Marvel",
       "descripcion": "Imagen de fondo marvel",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-fakeapi.appspot.com/o/marvel%2Fmarvelbg.jpg?alt=media&token=a90966cb-0bf8-443b-b7fb-73e9496dabd3"
-    }
+    },
     {
       "id": "dc-backgrnd",
       "nombre": "Fondo Dc",
