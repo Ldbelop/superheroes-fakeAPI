@@ -1,4 +1,4 @@
-{"api": [
+{"marvel": [
     {
       "id": "spiderman",
       "top": "1",
@@ -219,6 +219,8 @@
       "tipo": "heroes-marvel",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Finhumanos.webp?alt=media&token=0cbab90e-94b9-4ca1-98b0-104516ce0e7e"
     },
+ ]
+ "dc": [,
     {
       "id": "batman",
       "top": "1",
@@ -438,7 +440,9 @@
       "editorial": "DC  Comics",
       "tipo": "heroes-dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/dc%2Fmartian-j'oon.jpg?alt=media&token=0c141066-6906-4183-a3a8-ff45ac97fa2c"
-    },
+    }   
+ ]
+"backgrounds": [
     {
       "id": "marvel-backgrnd",
       "nombre": "Fondo Marvel",
@@ -451,6 +455,5 @@
       "descripcion": "Imagen de fondo dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-fakeapi.appspot.com/o/dc%2FDcbg.jpg?alt=media&token=2982f4be-6021-43ea-afae-9267bb0161f2"
     }
-    
-  ]
+    ]
 }
