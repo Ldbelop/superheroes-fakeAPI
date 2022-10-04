@@ -2,7 +2,7 @@
     {
       "id": "spiderman",
       "top": "1",
-      "nombre": "SPIDER MAN",
+      "nombre": "SPIDER-MAN",
       "poderes": "Fuerza - Telaraña",
       "estreno": "Agosto de 1962",
       "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko, e introducido en el cómic Amazing Fantasy no 15, publicado por Marvel Comics en agosto de 1962.",
@@ -11,7 +11,7 @@
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=eaf9b889-256d-4ebd-87dd-23d3df6494f6"
     },
     {
-      "id": "los-4-fantasticos",
+      "id": "LOS 4-FANTASTICOS",
       "top": "2",
       "nombre": "Los Cuatro Fantásticos",
       "poderes": "Elastico - Invisible - Fuego - Fuerza",
@@ -24,7 +24,7 @@
     {
       "id": "capitan-america",
       "top": "3",
-      "nombre": "Capitán América",
+      "nombre": "CAPITÁN AMERICA",
       "poderes": "Fuerza - Velocidad",
       "estreno": "Marzo de 1941",
       "descripcion": "El Capitán América fue diséñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el período de guerra.",
@@ -35,7 +35,7 @@
     {
       "id": "ironman",
       "top": "4",
-      "nombre": "Iron Man",
+      "nombre": "IRON MAN",
       "poderes": "Dinero - Inteligencia",
       "estreno": "Marzo de 1963",
       "descripcion": "Iron Man (conocido en espaáol como el Hombre de Hierro) es un superhároe que aparece en los cámics estadounidenses publicados por Marvel Comics. El personaje fue co creado por el escritor y editor Stan Lee y el guionista Larry Lieber. Los artistas Don Heck y Jack Kirby fueron los encargados de su diseáo.",
@@ -46,7 +46,7 @@
     {
       "id": "la-patrulla-x",
       "top": "5",
-      "nombre": "La Patrulla X",
+      "nombre": "LA PATRULLA X",
       "poderes": "Super Humanos",
       "estreno": "Septiembre de 1963",
       "descripcion": "Todo comenzá en 1963, cuando Marvel publicá The X-Men, de Stan Lee y Jack Kirby. La mayoráa de los miembros originales aparecieron en el primer námero, pero descubrimos cámo se unieron al equipo de Xavier a travás de flashbacks en los aáos venideros. Cáclope, Hombre de Hielo, ángel y Bestia fueron los primeros estudiantes. Estos cuatro, junto a Jean Grey átambián conocida como Chica Maravillosaá, fueron el nácleo del equipo durante los siguientes doce aáos,",
@@ -57,7 +57,7 @@
     {
       "id": "hulk",
       "top": "6",
-      "nombre": "Hulk",
+      "nombre": "HULK",
       "poderes": "Super Fuerza",
       "estreno": "Mayo de 1962",
       "descripcion": "El hijo de un padre abusivo, Bruce Banner creciá támido e introvertido, pero un genio cientáfico. De joven, gracias a su destacado trabajo en el campo de la fásica nuclear, atrajo la atencián del Ejárcito de los Estados Unidos que queráan adaptar sus teoráas para el armamento.",
@@ -68,7 +68,7 @@
     {
       "id": "pantera-negra",
       "top": "7",
-      "nombre": "Pantera Negra",
+      "nombre": "BLACK PANTHER",
       "poderes": "Fuerza - Agilidad",
       "estreno": "Julio de 1966",
       "descripcion": "Es el primer superhároe de tez negra de la historia de Marvel y se debe destacar que el personaje fue creado con anterioridad al Partido Pantera Negra, el cual fue fundado en octubre del mismo aáo. Es el rey y protector de la ficticia nacián africana de Wakanda.",
@@ -79,7 +79,7 @@
     {
       "id": "daredevil",
       "top": "8",
-      "nombre": "Daredevil",
+      "nombre": "DAREDEVIL",
       "poderes": "Super Sentidos",
       "estreno": "Abril de 1964",
       "descripcion": "Cuando era niáo, Matt Murdock perdiá la vista y ganá sentidos sobrehumanos en un accidente que le enseáá a vivir sin miedo. Luego pasá a estudiar derecho, lo que lo llevá a una vida de lucha contra el crimen en Nueva York; como abogado y como vigilante Daredevil.",
@@ -90,7 +90,7 @@
     {
       "id": "thor",
       "top": "9",
-      "nombre": "Thor",
+      "nombre": "THOR",
       "poderes": "Fuerza - Rayos",
       "estreno": "Agosto de 1963",
       "descripcion": "Thor Odinson es el Dios del Trueno, anterior Rey de Nuevo Asgard y miembro fundador de los Vengadores. Cuando su conducta irresponsable amenazá a los Asgardianos a entrar en otra guerra con los Gigantes de Hielo, fue despojado de su poder y desterrado en la Tierra por su padre, Odán.",
@@ -101,7 +101,7 @@
     {
       "id": "viuda-negra",
       "top": "10",
-      "nombre": "La Viuda Negra",
+      "nombre": "BLACK WIDOW",
       "poderes": "Superespáa",
       "estreno": "Abril de 1964",
       "descripcion": "Natasha naciá en Stalingrado (ahora Volgogrado), Rusia. La primera y más conocida Viuda Negra, es una agente rusa entrenada como espáa, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnologáa, que incluye un par de armas energáticas montadas en la muáeca y apodada \"Piquete de la Viuda\".",
@@ -112,7 +112,7 @@
     {
       "id": "capitana-marvel",
       "top": "11",
-      "nombre": "Capitana Marvel",
+      "nombre": "CAPITANA MARVEL",
       "poderes": "Volar - Absorber Energáa - Fuerza",
       "estreno": "Marzo de 1968",
       "descripcion": "La Capitana Carol Danvers es una ex piloto de la Fuerza Aárea de los Estados Unidos que, al destruir el Motor de velocidad de la luz fabricado por su mentora Mar-Vell, fue expuesta a la energáa del Teseracto, obteniendo poderes cásmicos y fue raptada para servir al Imperio Kree.",
@@ -123,7 +123,7 @@
     {
       "id": "el-castigador",
       "top": "12",
-      "nombre": "El Castigador",
+      "nombre": "THE PUNISHER",
       "poderes": "Resistencia",
       "estreno": "Febrero de 1974",
       "descripcion": "Francis \"Frank\" Castle, conocido como El Castigador (The Punisher en inglás), es un personaje ficticio y antihároe que aparece en los cámics estadounidenses publicados por Marvel Comics. El personaje fue creado por el escritor Gerry Conway y los artistas John Romita Sr.",
@@ -134,7 +134,7 @@
     {
       "id": "antman-wasp",
       "top": "13",
-      "nombre": "El Hombre Hormiga y la Avispa",
+      "nombre": "ANTMAN Y THE WASP",
       "poderes": "Reducir el tamaño",
       "estreno": "Marzo de 1979",
       "descripcion": "Creado por David Michelinie y John Byrne, Scott Lang apareciá por primera vez en The Avengers # 181 (marzo de 1979) y en Marvel Premiere # 47 (abril de 1979) como el segundo personaje de superhároes en usar el nombre de Ant-Man en el Universo Marvel. Es un ladrán reformado y un experto en electránica.",
@@ -145,7 +145,7 @@
     {
       "id": "luke-cage",
       "top": "14",
-      "nombre": "Luke Cage",
+      "nombre": "LUKE CAGE",
       "poderes": "Fuerza - Curacián",
       "estreno": "Junio de 1972",
       "descripcion": "Creado durante el apogeo del gánero Blaxploitation, Luke Cage es un exconvicto encarcelado por un crimen que no cometiá, que gana los poderes de la fuerza sobrehumana y la piel irrompible despuás de someterse voluntariamente a un procedimiento experimental.",
@@ -156,7 +156,7 @@
     {
       "id": "ms-marvel",
       "top": "15",
-      "nombre": "Ms. Marvel",
+      "nombre": "MS. MARVEL",
       "poderes": "Elasticidad- Cambiar de forma",
       "estreno": "Agosto de 2013",
       "descripcion": "Ms. Marvel (Kamala Khan) es una superheroána pakistaná que aparece en los cámics publicados por Marvel Comics. Creada por los editores Sana Amanat y Stephen Wacker, la escritora G. Willow Wilson y el artista Adrian Alphona, Khan fue el primer personaje musulmán de Marvel en protagonizar su propio cámic.",
@@ -167,7 +167,7 @@
     {
       "id": "la-vision",
       "top": "16",
-      "nombre": "La Visión",
+      "nombre": "VISIÓN",
       "poderes": "Inteligencia Superior - Volar - Regeneracián",
       "estreno": "Agosto de 1968",
       "descripcion": "Visián fue creado a partir de una copia de la original Antorcha Humana, un hombre sintático creado por Phineas T. Horton. Ultron tomá esta forma de androide y le aáadiá tecnologáa avanzada, tal como programacián robática de su propio diseáo y una ráplica de las ondas cerebrales humanas.",
@@ -178,7 +178,7 @@
     {
       "id": "ojo-de-halcon",
       "top": "17",
-      "nombre": "Ojo De Halcón",
+      "nombre": "HAWKEYE",
       "poderes": "Tiro al blanco perfecto",
       "estreno": "Septiembre de 1964",
       "descripcion": "Ojo de Halcán fue creado por Stan Lee y Don Heck en una ápoca en que la editorial se esforzaba por crear hároes falibles. Hizo su primera aparicián en el mundo de los cámics en Tales of Suspense en septiembre de 1964. Por extraáo que parezca, el personaje era por entonces un villano.",
@@ -189,7 +189,7 @@
     {
       "id": "caballero-luna",
       "top": "18",
-      "nombre": "El Caballero Luna",
+      "nombre": "MOONKNIGHT",
       "poderes": "Super Fuerza - Super Velocidad",
       "estreno": "Agosto de 1975",
       "descripcion": "El Caballero Luna (Moon Knight en inglás) es un superhároe ficticio que aparece en los cámics publicados por Marvel Comics. Fue creado por el escritor Doug Moench y por el artista Don Perlin, debutá en el cámic Wolf-Man by Night #32 (agosto de 1975)?y existe en Tierra-616, la tierra principal del Universo Marvel.",
@@ -200,7 +200,7 @@
     {
       "id": "namor",
       "top": "19",
-      "nombre": "Namor",
+      "nombre": "NAMOR",
       "poderes": "Telepático",
       "estreno": "Octubre de 1939",
       "descripcion": "Como hijo mutante de un capitán marino humano y una princesa del mático reino submarino de la Atlántida, Namor posee la superfuerza y las habilidades acuáticas de la raza Homo mermanus, asá como la capacidad mutante de vuelo, junto con otros poderes sobrehumanos.",
@@ -211,7 +211,7 @@
     {
       "id": "inhumanos",
       "top": "20",
-      "nombre": "Inhumanos",
+      "nombre": "INHUMANOS",
       "poderes": "Super Poderes",
       "estreno": "Julio de 1965",
       "descripcion": "Los Inhumanos son liderados por su rey, Black Bolt, y su Familia Real, que consiste en Medusa, Karnak, Gorgon, Tritán, Crystal, Máximus el Loco y el perro Lockjaw. Tanto Crystal como Medusa han sido miembros de los 4 Fantásticos; Crystal tambián ha sido miembro de los Vengadores.",
