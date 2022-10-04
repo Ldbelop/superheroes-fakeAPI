@@ -11,9 +11,9 @@
       "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=eaf9b889-256d-4ebd-87dd-23d3df6494f6"
     },
     {
-      "id": "LOS 4-FANTASTICOS",
+      "id": "los-4-fantasticos",
       "top": "2",
-      "nombre": "Los Cuatro Fantásticos",
+      "nombre": "LOS 4-FANTASTICOS",
       "poderes": "Elastico - Invisible - Fuego - Fuerza",
       "estreno": "Noviembre de 1961",
       "descripcion": "Los Cuatro Fantásticos se forman despuás de que cuatro astronautas civiles están expuestos a los rayos cásmicos durante un vuelo de prueba no autorizado en el espacio exterior en un cohete experimental diseñado por el Dr. Reed Richards.",
